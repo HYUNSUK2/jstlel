@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h3>범위 우선순위</h3>
-
+	${userVo.no } : ${userVo.email }
 </body>
 </html>

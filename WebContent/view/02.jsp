@@ -7,5 +7,12 @@
 </head>
 <body>
 	<h3>연산</h3>
+	${iVal + 10 * 100 / 2 }<br>
+	${fVal + 10 * 100 / 2 }<br>
+	
+	${iVal < 100 } <br>
+	${iVal == 1000 || fVal < 200 } <br>
+	${empty userVo } <br>
+	${not empty userVo } <br>
 </body>
 </html>
